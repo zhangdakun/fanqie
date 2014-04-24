@@ -1,0 +1,221 @@
+android.support.v13.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v13.app.FragmentTabHost$SavedState
+android.support.v13.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentActivity: FragmentActivity()
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.preferencefragment.R$dimen: int preference_fragment_padding_bottom
+android.support.v4.preferencefragment.R$dimen: int preference_fragment_padding_side
+android.support.v4.preferencefragment.R$id: int back_button
+android.support.v4.preferencefragment.R$id: int button_bar
+android.support.v4.preferencefragment.R$id: int next_button
+android.support.v4.preferencefragment.R$id: int skip_button
+android.support.v4.preferencefragment.R$integer: int preference_fragment_scrollbarStyle
+android.support.v4.preferencefragment.R$layout: int preference_list_fragment
+android.support.v4.preferencefragment.R$string: int back_button_label
+android.support.v4.preferencefragment.R$string: int next_button_label
+android.support.v4.preferencefragment.R$string: int skip_button_label
+android.support.v4.view.PagerTabStrip
+android.support.v4.view.PagerTabStrip: PagerTabStrip(android.content.Context)
+android.support.v4.view.PagerTabStrip: PagerTabStrip(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: PagerTitleStrip(android.content.Context)
+android.support.v4.view.PagerTitleStrip: PagerTitleStrip(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager
+android.support.v4.view.ViewPager: ViewPager(android.content.Context)
+android.support.v4.view.ViewPager: ViewPager(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+cn.doubao.tomatotask.R$anim: int alpha_rotate
+cn.doubao.tomatotask.R$anim: int alpha_scale
+cn.doubao.tomatotask.R$anim: int alpha_scale_rotate
+cn.doubao.tomatotask.R$anim: int my_alpha_action
+cn.doubao.tomatotask.R$anim: int my_rotate_action
+cn.doubao.tomatotask.R$anim: int my_scale_action
+cn.doubao.tomatotask.R$anim: int myanimation_simple
+cn.doubao.tomatotask.R$anim: int myown_design
+cn.doubao.tomatotask.R$anim: int scale_rotate
+cn.doubao.tomatotask.R$array: int BreakTime
+cn.doubao.tomatotask.R$array: int BreakTime_value
+cn.doubao.tomatotask.R$array: int TomatoStart_String
+cn.doubao.tomatotask.R$array: int TomatoTime
+cn.doubao.tomatotask.R$array: int TomatoTime_value
+cn.doubao.tomatotask.R$color: int ShanLanSe
+cn.doubao.tomatotask.R$color: int white
+cn.doubao.tomatotask.R$dimen: int activity_horizontal_margin
+cn.doubao.tomatotask.R$dimen: int activity_vertical_margin
+cn.doubao.tomatotask.R$dimen: int preference_fragment_padding_bottom
+cn.doubao.tomatotask.R$dimen: int preference_fragment_padding_side
+cn.doubao.tomatotask.R$drawable: int bg
+cn.doubao.tomatotask.R$drawable: int big
+cn.doubao.tomatotask.R$drawable: int breakimage
+cn.doubao.tomatotask.R$drawable: int button
+cn.doubao.tomatotask.R$drawable: int guide_dot_black
+cn.doubao.tomatotask.R$drawable: int guide_dot_white
+cn.doubao.tomatotask.R$drawable: int guide_round
+cn.doubao.tomatotask.R$drawable: int ic_launcher
+cn.doubao.tomatotask.R$drawable: int ic_launcher1
+cn.doubao.tomatotask.R$drawable: int maintomato
+cn.doubao.tomatotask.R$drawable: int new_btn_gray
+cn.doubao.tomatotask.R$drawable: int number
+cn.doubao.tomatotask.R$drawable: int roller
+cn.doubao.tomatotask.R$drawable: int shape
+cn.doubao.tomatotask.R$drawable: int shapetop
+cn.doubao.tomatotask.R$drawable: int showbottom
+cn.doubao.tomatotask.R$drawable: int showtop
+cn.doubao.tomatotask.R$drawable: int smallbutton1
+cn.doubao.tomatotask.R$drawable: int smallbutton2
+cn.doubao.tomatotask.R$drawable: int stylebutton1
+cn.doubao.tomatotask.R$drawable: int stylebutton2
+cn.doubao.tomatotask.R$drawable: int tomato_25
+cn.doubao.tomatotask.R$drawable: int tomato_35
+cn.doubao.tomatotask.R$drawable: int tomato_45
+cn.doubao.tomatotask.R$drawable: int tomato_60
+cn.doubao.tomatotask.R$drawable: int topbutton
+cn.doubao.tomatotask.R$id: int ReturnButton
+cn.doubao.tomatotask.R$id: int action_settings
+cn.doubao.tomatotask.R$id: int adLayout
+cn.doubao.tomatotask.R$id: int allTomatoCount
+cn.doubao.tomatotask.R$id: int back_button
+cn.doubao.tomatotask.R$id: int breakBar
+cn.doubao.tomatotask.R$id: int breakTxtView
+cn.doubao.tomatotask.R$id: int button
+cn.doubao.tomatotask.R$id: int button2
+cn.doubao.tomatotask.R$id: int button_bar
+cn.doubao.tomatotask.R$id: int changecontentview
+cn.doubao.tomatotask.R$id: int changedateview
+cn.doubao.tomatotask.R$id: int chkShake
+cn.doubao.tomatotask.R$id: int chkTick
+cn.doubao.tomatotask.R$id: int circleProgressbar
+cn.doubao.tomatotask.R$id: int contentTextView
+cn.doubao.tomatotask.R$id: int dateTextView
+cn.doubao.tomatotask.R$id: int editbutton
+cn.doubao.tomatotask.R$id: int editbutton2
+cn.doubao.tomatotask.R$id: int editdate
+cn.doubao.tomatotask.R$id: int edittext
+cn.doubao.tomatotask.R$id: int edittexttwo
+cn.doubao.tomatotask.R$id: int imageTomato
+cn.doubao.tomatotask.R$id: int listview
+cn.doubao.tomatotask.R$id: int next_button
+cn.doubao.tomatotask.R$id: int number
+cn.doubao.tomatotask.R$id: int pagertab
+cn.doubao.tomatotask.R$id: int relativeId
+cn.doubao.tomatotask.R$id: int sbLongRest
+cn.doubao.tomatotask.R$id: int sbRest
+cn.doubao.tomatotask.R$id: int sbTick
+cn.doubao.tomatotask.R$id: int skip_button
+cn.doubao.tomatotask.R$id: int smallbutton1
+cn.doubao.tomatotask.R$id: int smallbutton2
+cn.doubao.tomatotask.R$id: int stylebutton1
+cn.doubao.tomatotask.R$id: int stylebutton2
+cn.doubao.tomatotask.R$id: int todayTomatoCount
+cn.doubao.tomatotask.R$id: int tomatoTxtView
+cn.doubao.tomatotask.R$id: int topButton
+cn.doubao.tomatotask.R$id: int tvLongRest
+cn.doubao.tomatotask.R$id: int tvRest
+cn.doubao.tomatotask.R$id: int tvTick
+cn.doubao.tomatotask.R$id: int txtView
+cn.doubao.tomatotask.R$id: int viewLinear
+cn.doubao.tomatotask.R$id: int viewpage
+cn.doubao.tomatotask.R$id: int viewpager
+cn.doubao.tomatotask.R$id: int writedate
+cn.doubao.tomatotask.R$integer: int preference_fragment_scrollbarStyle
+cn.doubao.tomatotask.R$layout: int activity_main
+cn.doubao.tomatotask.R$layout: int break_layout
+cn.doubao.tomatotask.R$layout: int preference_list_fragment
+cn.doubao.tomatotask.R$layout: int setting_layout
+cn.doubao.tomatotask.R$layout: int showedit
+cn.doubao.tomatotask.R$layout: int showtypes
+cn.doubao.tomatotask.R$layout: int style
+cn.doubao.tomatotask.R$layout: int task_layout
+cn.doubao.tomatotask.R$layout: int task_layout_main
+cn.doubao.tomatotask.R$layout: int tomato_layout
+cn.doubao.tomatotask.R$layout: int viewpager_layout
+cn.doubao.tomatotask.R$layout: int writedown
+cn.doubao.tomatotask.R$menu: int main
+cn.doubao.tomatotask.R$string: int EndBreak
+cn.doubao.tomatotask.R$string: int EndTask
+cn.doubao.tomatotask.R$string: int action_settings
+cn.doubao.tomatotask.R$string: int app_name
+cn.doubao.tomatotask.R$string: int back_button_label
+cn.doubao.tomatotask.R$string: int breakcharSequence
+cn.doubao.tomatotask.R$string: int next_button_label
+cn.doubao.tomatotask.R$string: int skip_button_label
+cn.doubao.tomatotask.R$string: int startTomato
+cn.doubao.tomatotask.R$string: int support
+cn.doubao.tomatotask.R$string: int tomatocharSequence
+cn.doubao.tomatotask.R$string: int tv_fqsj
+cn.doubao.tomatotask.R$style: int AppBaseTheme
+cn.doubao.tomatotask.R$style: int AppTheme
+cn.doubao.tomatotask.R$xml: int preferences
+com.android.tomatotask.BreakActivity
+com.android.tomatotask.BreakActivity: BreakActivity()
+com.android.tomatotask.BreakActivity: void onClick(android.view.View)
+com.android.tomatotask.CircleProgressBar
+com.android.tomatotask.CircleProgressBar: CircleProgressBar(android.content.Context)
+com.android.tomatotask.CircleProgressBar: CircleProgressBar(android.content.Context,android.util.AttributeSet)
+com.android.tomatotask.CircleProgressBar: CircleProgressBar(android.content.Context,android.util.AttributeSet,int)
+com.android.tomatotask.CircleProgressBar: int getMaxProgress()
+com.android.tomatotask.CircleProgressBar: void setMaxProgress(int)
+com.android.tomatotask.CircleProgressBar: void setProgress(int)
+com.android.tomatotask.CircleProgressBar: void setProgressNotInUiThread(int)
+com.android.tomatotask.MainActivity
+com.android.tomatotask.MainActivity: MainActivity()
+com.android.tomatotask.MainActivity: void onClick(android.view.View)
+com.android.tomatotask.Task.BaseActivity
+com.android.tomatotask.Task.BaseActivity: BaseActivity()
+com.android.tomatotask.Task.DateLine
+com.android.tomatotask.Task.DateLine: DateLine(android.content.Context)
+com.android.tomatotask.Task.DateLine: DateLine(android.content.Context,android.util.AttributeSet)
+com.android.tomatotask.Task.DrawLine
+com.android.tomatotask.Task.DrawLine: DrawLine(android.content.Context,android.util.AttributeSet)
+com.android.tomatotask.Task.EditActivity
+com.android.tomatotask.Task.EditActivity: EditActivity()
+com.android.tomatotask.Task.TextViewLine
+com.android.tomatotask.Task.TextViewLine: TextViewLine(android.content.Context,android.util.AttributeSet)
+com.android.tomatotask.Task.WriteActivity
+com.android.tomatotask.Task.WriteActivity: WriteActivity()
+com.android.tomatotask.ViewPagerActivity
+com.android.tomatotask.ViewPagerActivity: ViewPagerActivity()

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest android:versionCode="2" android:versionName="1.0.1" package="cn.doubao.tomatotask"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <application android:theme="@style/AppTheme" android:label="@string/app_name" android:icon="@drawable/ic_launcher" android:allowBackup="true">
+        <activity android:label="@string/app_name" android:name="com.android.tomatotask.ViewPagerActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.android.tomatotask.SettingActivity" />
+        <activity android:name="com.android.tomatotask.BreakActivity" android:screenOrientation="portrait" />
+        <activity android:name="com.android.tomatotask.TaskActivity" />
+        <activity android:name="com.android.tomatotask.MainActivity" android:screenOrientation="portrait" />
+        <activity android:name="com.android.tomatotask.TomatoActivity" />
+        <activity android:name="com.android.tomatotask.Task.BaseActivity" />
+        <activity android:name="com.android.tomatotask.Task.EditActivity" />
+        <activity android:name="com.android.tomatotask.Task.WriteActivity" />
+        
+                  <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="5358b6f056240b7fa102014b" >
+        </meta-data>
+    </application>
+    <supports-screens
+        android:smallScreens="true" 
+        android:normalScreens="true" 
+        android:largeScreens="true" 
+        android:anyDensity="true"
+    />
+    <uses-permission android:name="android.permission.VIBRATE" />
+</manifest>

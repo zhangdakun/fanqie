@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/imageTomato" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/maintomato" android:scaleType="center" android:layout_centerInParent="true" />
+    <TextView android:textSize="15.0sp" android:id="@id/tomatoTxtView" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/imageTomato" android:layout_centerInParent="true" />
+    <TextView android:textSize="30.0sp" android:id="@id/allTomatoCount" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginBottom="20.0dip" android:text="总计:0" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
+    <TextView android:textSize="30.0sp" android:id="@id/todayTomatoCount" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:text="今日:0" android:layout_above="@id/allTomatoCount" />
+</RelativeLayout>

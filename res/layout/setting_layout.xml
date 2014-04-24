@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableLayout android:padding="3.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TableRow>
+            <TextView android:textSize="15.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_span="2" android:text="番茄时间" />
+        </TableRow>
+        <TableRow>
+            <SeekBar android:id="@id/sbTick" android:layout_width="266.0dip" android:layout_height="wrap_content" android:max="40" android:progress="0" android:secondaryProgress="40" />
+            <TextView android:id="@id/tvTick" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="5min" />
+        </TableRow>
+        <View android:background="#ff909090" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <TableRow>
+            <TextView android:textSize="15.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="休息时间" />
+        </TableRow>
+        <TableRow>
+            <SeekBar android:id="@id/sbRest" android:layout_width="fill_parent" android:layout_height="wrap_content" android:max="9" android:progress="4" android:secondaryProgress="9" />
+            <TextView android:id="@id/tvRest" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="5min" />
+        </TableRow>
+        <View android:background="#ff909090" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <TableRow>
+            <TextView android:textSize="15.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="长休息时间" />
+        </TableRow>
+        <TableRow>
+            <SeekBar android:id="@id/sbLongRest" android:layout_width="fill_parent" android:layout_height="wrap_content" android:max="35" android:progress="10" android:secondaryProgress="35" />
+            <TextView android:id="@id/tvLongRest" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="5min" />
+        </TableRow>
+        <View android:background="#ff909090" android:layout_width="fill_parent" android:layout_height="2.0dip" />
+        <TableRow>
+            <TextView android:textSize="15.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="开启震动" />
+            <CheckBox android:id="@id/chkShake" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </TableRow>
+        <View android:background="#ff909090" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <TableRow>
+            <TextView android:textSize="15.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="开启滴答声" />
+            <CheckBox android:id="@id/chkTick" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </TableRow>
+        <View android:background="#ff909090" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <TableRow>
+            <TextView android:textSize="15.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="完成提示音" />
+        </TableRow>
+        <TableRow>
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="北極熊" />
+        </TableRow>
+    </TableLayout>
+</ScrollView>
